@@ -1,0 +1,11 @@
+# Virtual env
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+logs/
+dist/
+build/
+*.egg-info/
