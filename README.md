@@ -14,6 +14,7 @@ This is my attempt to build a chatbot in Python using the OpenAI API. I will kee
 ---
 
 ## 📂 Project Structure
+```
 chatbot_openai/
 │
 ├── chatbot/
@@ -27,7 +28,7 @@ chatbot_openai/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## ⚙️ Setup Instructions
